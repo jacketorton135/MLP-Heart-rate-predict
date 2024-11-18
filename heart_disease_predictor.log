@@ -1,0 +1,28 @@
+2024-10-23 02:12:13,405 - INFO - Model and scaler loaded successfully
+2024-10-23 02:15:09,089 - INFO - Model and scaler loaded successfully
+2024-10-23 02:16:05,643 - INFO - Model and scaler loaded successfully
+2024-10-23 02:19:04,461 - INFO - Model and scaler loaded successfully
+2024-10-23 02:20:09,166 - INFO - Model and scaler loaded successfully
+2024-10-23 02:30:01,427 - INFO - Model and scaler loaded successfully
+2024-10-23 02:35:40,496 - INFO - Model and scaler loaded successfully
+2024-10-23 02:44:26,770 - INFO - Model and scaler loaded successfully
+2024-10-23 02:45:20,649 - ERROR - Failed to save prediction: (1146, "Table 'heart rate monitor.predictions' doesn't exist")
+2024-10-23 02:45:35,284 - ERROR - Failed to save prediction: (1146, "Table 'heart rate monitor.predictions' doesn't exist")
+2024-10-23 02:45:38,345 - ERROR - Failed to save prediction: (1146, "Table 'heart rate monitor.predictions' doesn't exist")
+2024-10-23 02:46:29,862 - ERROR - Failed to save prediction: (1146, "Table 'heart rate monitor.predictions' doesn't exist")
+2024-10-23 02:49:21,307 - ERROR - Failed to save prediction: (1146, "Table 'heart rate monitor.predictions' doesn't exist")
+2024-10-23 02:57:20,617 - ERROR - Database connection failed: (1049, "Unknown database 'heart_rate_monitor'")
+2024-10-23 02:57:20,617 - ERROR - Database setup failed: (1049, "Unknown database 'heart_rate_monitor'")
+2024-10-23 02:57:41,275 - ERROR - Database setup failed: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'rate monitor' at line 1")
+2024-10-23 02:59:11,449 - ERROR - Database setup failed: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'rate monitor' at line 1")
+2024-10-23 02:59:51,481 - ERROR - Database setup failed: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'rate monitor' at line 1")
+2024-10-23 03:00:45,105 - ERROR - Database setup failed: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'rate monitor' at line 1")
+2024-10-23 03:02:09,707 - ERROR - Database connection failed: (1049, "Unknown database '`heart rate monitor`'")
+2024-10-23 03:02:09,707 - ERROR - Database setup failed: (1049, "Unknown database '`heart rate monitor`'")
+2024-10-23 03:05:21,110 - ERROR - Database connection failed: (1049, "Unknown database '`heart rate monitor`'")
+2024-10-23 03:05:21,111 - ERROR - Database setup failed: (1049, "Unknown database '`heart rate monitor`'")
+2024-10-23 03:05:35,416 - ERROR - Database setup failed: (0, '')
+2024-10-23 03:07:14,181 - ERROR - Database connection failed: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2024-10-23 03:07:14,181 - ERROR - Database setup failed: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2024-10-23 03:09:49,388 - ERROR - Database connection failed: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2024-10-23 03:09:49,388 - ERROR - Database setup failed: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
